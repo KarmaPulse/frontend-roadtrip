@@ -23,7 +23,7 @@ Hoy en día, el área tiene una serie de tecnologías y metodologías que buscam
 
 > Debe existir una guía estandar para escribir código, esto para ayudar a que el codigo sea homogéneo y todo el equipo pueda enterderlo.
 
-[Link a guias de estilo](/docs/styleGuides.md)
+[Link a guías de estilo](/docs/styleGuides.md)
 
 ##### Metodología de desarrollo
 
