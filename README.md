@@ -29,29 +29,29 @@ El area hoy en día tiene una serie de tecnologias y metodologias en esta seccio
 
 > Tenemos varias metodología a la hora de desarrollar muchas de ellas aun estan en adaptacion o creandose puedes sugerir o mejorar alguna.
 
-[Link a metodología de desarrollo]()
+[Link a metodología de desarrollo](/docs/developmentMethodologies.md)
 
 ##### Recursos de aprendizaje
 
 > El conocimiento y experimentacion esta en nuetsro ADN, compramos cursos talleres, libros y toda clase de cosas que te pueden ser de utilidad para aprender y ser mejor en tu trabajo.
 
-[Link a recursos de aprendizaje]()
+[Link a recursos de aprendizaje](/docs/learningResources.md)
 
 ##### Tutoriales y articulos
 
 > A lo largo del tiempo el equipo a clasificado una serie de tutoriales y articulos de interes para el area de frontend que los disfrutes.
 
 ###### CSS
-[Link a tutoriales y articulos (CSS)]()
+[Link a tutoriales y articulos (CSS)](/docs/cssArticles.md)
 
 ###### HTML
-[Link a tutoriales y articulos (HTML)]()
+[Link a tutoriales y articulos (HTML)](/docs/htmlArticles.md)
 
 ###### Javascript
-[Link a tutoriales y articulos (Javascript)]()
+[Link a tutoriales y articulos (Javascript)](/docs/javascriptArticles.md)
 
 ###### Otros
-[Link a tutoriales y articulos (otros)]()
+[Link a tutoriales y articulos (otros)](/docs/othersArticles.md)
 
 
 ---
