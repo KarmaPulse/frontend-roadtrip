@@ -1,1 +1,1 @@
-# Tutoriales y articulos (CSS)
+# Tutoriales y artículos (CSS)
