@@ -1,4 +1,4 @@
-# Tutoriales y articulos (CSS)
+# Tutoriales y artículos (CSS)
 
 * [Awesome CSS](https://github.com/sotayamashita/awesome-css#awesome-css)
 
