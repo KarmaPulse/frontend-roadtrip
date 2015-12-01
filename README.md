@@ -7,6 +7,7 @@
 2. [Manos en el código](#code)
 3. [Preguntas frecuentes](#faq)
 
+---
 
 #### <a name='introduction'>Introducción</a>
 
