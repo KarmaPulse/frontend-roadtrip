@@ -21,7 +21,7 @@ Hoy en día, el área tiene una serie de tecnologías y metodologías que buscam
 
 ##### Guías de estilo
 
-> Debe existir una guía estandar para escribir código, esto para ayudar a que el codigo sea homogéneo y todo el equipo pueda enterderlo.
+> Debe existir una guía estandar para escribir código, esto para ayudar a que el código sea homogéneo y todo el equipo pueda enterderlo.
 
 [Link a guías de estilo](/docs/styleGuides.md)
 
@@ -29,29 +29,29 @@ Hoy en día, el área tiene una serie de tecnologías y metodologías que buscam
 
 > Seguimos varias metodologías a la hora de desarrollar, muchas de ellas aún están en adaptación o creándose. Siempre puedes sugerir o mejorar alguna.
 
-[Link a metodología de desarrollo]()
+[Link a metodología de desarrollo](/docs/developmentMethodologies.md)
 
 ##### Recursos de aprendizaje
 
 > El conocimiento y la experimentación están en nuetsro ADN; compramos cursos, talleres, libros y toda clase de cosas que te puedan ser de utilidad para aprender y ser mejor en tu trabajo.
 
-[Link a recursos de aprendizaje]()
+[Link a recursos de aprendizaje](/docs/learningResources.md)
 
 ##### Tutoriales y artículos
 
 > A lo largo del tiempo, el equipo a clasificado una serie de tutoriales y artículos de interés para el área de Front End. ¡Que los disfrutes!
 
 ###### CSS
-[Link a tutoriales y artículos (CSS)]()
+[Link a tutoriales y artículos (CSS)](/docs/cssArticles.md)
 
 ###### HTML
-[Link a tutoriales y artículos (HTML)]()
+[Link a tutoriales y artículos (HTML)](/docs/htmlArticles.md)
 
 ###### Javascript
-[Link a tutoriales y artículos (Javascript)]()
+[Link a tutoriales y artículos (Javascript)](/docs/javascriptArticles.md)
 
 ###### Otros
-[Link a tutoriales y artículos (otros)]()
+[Link a tutoriales y artículos (otros)](/docs/othersArticles.md)
 
 
 ---
