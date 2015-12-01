@@ -6,19 +6,19 @@
 ---
 
 ##### Guísa de estilos para Javascript
-[ES6 Airbnb](https://github.com/airbnb/javascript)
-[ES5 Airbnb](https://github.com/airbnb/javascript/tree/master/es5)
-[React Airbnb](https://github.com/airbnb/javascript/tree/master/react)
-[Angular ToddMotto](https://github.com/toddmotto/angularjs-styleguide)
+* [ES6 Airbnb](https://github.com/airbnb/javascript)
+* [ES5 Airbnb](https://github.com/airbnb/javascript/tree/master/es5)
+* [React Airbnb](https://github.com/airbnb/javascript/tree/master/react)
+* [Angular ToddMotto](https://github.com/toddmotto/angularjs-styleguide)
 
 ---
 
 ##### Guísa de estilos para Css & Sass
-[Airbnb](https://github.com/airbnb/css)
-[BEM naming convention](https://en.bem.info)
-[CSS order styling](http://codeguide.co/#css)
+* [Airbnb](https://github.com/airbnb/css)
+* [BEM naming convention](https://en.bem.info)
+* [CSS order styling](http://codeguide.co/#css)
 
 ---
 
 ##### Guísa de estilos para HTML
-[HTML recomendations](http://codeguide.co/#html)
+* [HTML recomendations](http://codeguide.co/#html)
