@@ -1,6 +1,8 @@
+<p align="center">
 ![Logo page](/img/karmapulse__logo.png)
 # Front End Roadmap
 > We love the curious people
+</p>
 
 ## Índice
 1. [Introducción](#introduction)
