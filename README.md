@@ -1,6 +1,4 @@
-<p align="center">
-  ![Logo page](/img/karmapulse__logo.png)
-</p>
+![Logo page](/img/karmapulse__logo.png)
 # Front End Roadmap
 > We love the curious people
 
